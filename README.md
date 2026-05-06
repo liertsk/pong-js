@@ -1,6 +1,6 @@
 # Projeto de aprendizagem em gamedev e lógica de programação
+representação e documentação cronológica dos meus estudos,projetos e avanços em programação 
 ## 5 de maio de 2026
-Este repositório representa cronologicamente meus estudos,projetos e avanços em programação 
 ### 1° Projeto - Pong clone
 <br> codado por mim em javascript para iniciar os meus estudos em lógica de programação de jogos e gamedev no geral. 
 <br>O código em si no arquivo (pongp5.js) está comentado linha a linha em português resumindo a funcionalidade básica de cada uma, foram utilizadas a biblioteca de funções [p5](https://p5js.org/) e a inteligência artificial [claude](https://claude.ai/) para fazer esse mini projeto.
